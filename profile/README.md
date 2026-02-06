@@ -10,7 +10,7 @@ This project builds on earlier work on the [Living with Machines](https://living
 
 Text Machine extends this approach through a longitudinal and multilingual study of writing about technology from 1473 to the present. Our models and datasets cover English, with comparative analyses in Spanish, French, Italian, and Russian, tracing the lifecycle of linguistic innovation from coinage and metaphor to cliché and obsolescence. We also apply these methods to AI-generated and human–AI collaborative literature, asking how literary surprise is registered by—and might be designed into—language models.
 
-The project releases open tools, datasets, and benchmarks to support research in literary studies, digital humanities, and AI.
+The project will release open tools, datasets, and benchmarks to support research in literary studies, digital humanities, and AI.
 
 ## Team
 
