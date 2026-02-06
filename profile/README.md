@@ -1,6 +1,6 @@
-## Text Machine: Computing Literary Innovation 
+# Text Machine: Computing Literary Innovation 
 		
-# Project description.
+## Project description.
 
 Text Machine is a two-year research project funded by the [Schmidt Sciences Humanities and AI Virtual Institute](https://www.schmidtsciences.org/humanities-and-ai-virtual-institute/). It investigates moments of literary innovation and surprise across historical texts, specifically in relation to moments of technological change. 
 
@@ -12,7 +12,7 @@ Text Machine extends this approach through a longitudinal and multilingual study
 
 The project releases open tools, datasets, and benchmarks to support research in literary studies, digital humanities, and AI.
 
-# Team
+## Team
 
 [Ruth Ahnert](https://www.qmul.ac.uk/sed/staff/ahnertr.html) - Principal Investigator. Ruth is Professor of Literary History and Digital Humanities at Queen Mary University of London. 
 
