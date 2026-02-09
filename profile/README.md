@@ -16,9 +16,9 @@ The project will release open tools, datasets, and benchmarks to support researc
 
 [Ruth Ahnert](https://www.qmul.ac.uk/sed/staff/ahnertr.html) - Principal Investigator. Ruth is Professor of Literary History and Digital Humanities at Queen Mary University of London. 
 
-[Kaspar Beelen](https://www.sas.ac.uk/people/dr-kaspar-beelen) - Co-Investigator. Kaspar is the Technical Lead in Digital Humanities at the School of Advanced Study, London. (Add Link?)
+[Kaspar Beelen](https://www.sas.ac.uk/people/dr-kaspar-beelen) - Co-Investigator. Kaspar is the Technical Lead in Digital Humanities at the School of Advanced Study, London.
 
-[Mariona Coll Ardanuy](https://www.bsc.es/coll-ardanuy-mariona) - Co-Investigator. Mariona is a senior researcher at the Computational Social Sciences and Humanities Laboratory of the Barcelona Supercomputing Center. (add link?)
+[Mariona Coll Ardanuy](https://www.bsc.es/coll-ardanuy-mariona) - Co-Investigator. Mariona is a senior researcher at the Computational Social Sciences and Humanities Laboratory of the Barcelona Supercomputing Center.
 
 [Nilo Pedrazzini](https://npedrazzini.github.io/) - Postdoctoral Research Associate. Nilo is a computational linguist based at Queen Mary University of London. 
 
