@@ -20,7 +20,7 @@ The project will release open tools, datasets, and benchmarks to support researc
 
 [Mariona Coll Ardanuy](https://www.bsc.es/coll-ardanuy-mariona) - Co-Investigator. Mariona is a senior researcher at the Computational Social Sciences and Humanities Laboratory of the Barcelona Supercomputing Center. (add link?)
 
-Nilo Pedrazzini - Postdoctoral Research Associate. Nilo is a computational linguist based at Queen Mary University of London. 
+[Nilo Pedrazzini](https://npedrazzini.github.io/) - Postdoctoral Research Associate. Nilo is a computational linguist based at Queen Mary University of London. 
 
 [Hannah Silva](https://www.hannahsilva.co.uk/) - Visiting Fellow. Hannah is an award-winning author of eight BBC radio plays, and one of the first writers in the UK and North America to explicitly publish a book of creative nonfiction, and broadcast a radio play in collaboration with a Large Language Model.
 
