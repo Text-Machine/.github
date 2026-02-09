@@ -22,4 +22,6 @@ The project will release open tools, datasets, and benchmarks to support researc
 
 Nilo Pedrazzini - Postdoctoral Research Associate. Nilo is a computational linguist based at Queen Mary University of London. 
 
+[Hannah Silva](https://www.hannahsilva.co.uk/) - Visiting Fellow. Hannah is an award-winning author of eight BBC radio plays, and one of the first writers in the UK and North America to explicitly publish a book of creative nonfiction, and broadcast a radio play in collaboration with a Large Language Model.
+
 [Daniel Wilson](https://profiles.ucl.ac.uk/95181-daniel-wilson) - Co-Investigator. Daniel is Lecturer in Cultural Analytics and Knowledge Systems at University College London. 
