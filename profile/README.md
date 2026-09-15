@@ -12,7 +12,7 @@ Text Machine extends this approach through a longitudinal and multilingual study
 
 The project will release open tools, datasets, and benchmarks to support research in literary studies, digital humanities, and AI.
 
-Text Machine is powered by (ZULIP)[http://www.zulip.com]: open source communication for research teams.
+Text Machine is powered by [ZULIP](http://www.zulip.com): open source communication for research teams.
 
 
 
