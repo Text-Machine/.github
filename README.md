@@ -8,6 +8,7 @@ This project builds on earlier work on the [Living with Machines](https://living
 Text Machine extends this approach through a longitudinal and multilingual study of writing about technology from 1473 to the present. Our models and datasets cover English, with comparative analyses in Spanish, French, Italian, and Russian, tracing the lifecycle of linguistic innovation from coinage and metaphor to cliché and obsolescence. We also apply these methods to AI-generated and human–AI collaborative literature, asking how literary surprise is registered by—and might be designed into—language models.
 The project releases open tools, datasets, and benchmarks to support research in literary studies, digital humanities, and AI.
 
+
 # Team
 
 [Ruth Ahnert](https://www.qmul.ac.uk/sed/staff/ahnertr.html) - Principal Investigator. Ruth is Professor of Literary History and Digital Humanities at Queen Mary University of London. 
@@ -19,3 +20,6 @@ The project releases open tools, datasets, and benchmarks to support research in
 Nilo Pedrazzini - Postdoctoral Research Associate. Nilo is a computational linguist based at Queen Mary University of London. 
 
 [Daniel Wilson](https://profiles.ucl.ac.uk/95181-daniel-wilson) - Co-Investigator. Daniel is Lecturer in Cultural Analytics and Knowledge Systems at University College London. 
+
+
+Text Machine is powered by [ZULIP](http://www.zulip.com): open source communication for research teams.
