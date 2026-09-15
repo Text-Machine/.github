@@ -12,8 +12,6 @@ Text Machine extends this approach through a longitudinal and multilingual study
 
 The project will release open tools, datasets, and benchmarks to support research in literary studies, digital humanities, and AI.
 
-Text Machine is powered by [ZULIP](http://www.zulip.com): open source communication for research teams.
-
 
 
 ## Team
@@ -29,3 +27,7 @@ Text Machine is powered by [ZULIP](http://www.zulip.com): open source communicat
 [Hannah Silva](https://www.hannahsilva.co.uk/) - Visiting Fellow. Hannah is an award-winning author of eight BBC radio plays, and one of the first writers in the UK and North America to explicitly publish a book of creative nonfiction, and broadcast a radio play in collaboration with a Large Language Model.
 
 [Daniel Wilson](https://profiles.ucl.ac.uk/95181-daniel-wilson) - Co-Investigator. Daniel is Lecturer in Cultural Analytics and Knowledge Systems at University College London. 
+
+Text Machine is powered by [ZULIP](http://www.zulip.com): open source communication for research teams.
+
+
